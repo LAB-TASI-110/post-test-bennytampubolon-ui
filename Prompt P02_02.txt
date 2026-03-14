@@ -1,0 +1,7 @@
+buatlah sebuah program dari soal berikut:
+Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi. Perhatikan pola penyimpanan pada gambar untuk memahami bagaimana kelompok barang dipisahkan.  dan untuk Input:
+Jumlah total data (N).
+Deret stok (s1, s2, ..., sN).
+Kode kategori barang.
+buatlah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta.
+buat program dalam bentuk bahasa c yang akan dijalankan pada applikasi windows dan menggunakan sistem operasi windows. buat program lengkap dengan satu fungsi utama yang siap dijalankan, untuk standar kualitas program yaitu fokus pada backend dan menggunakan prinsip clean code, dan untuk format output tidak perlu meampilkan penjelasan langkah langkah berpikir dan tidak perlu menggunakan persona tertentu dalam penyampaian. 

@@ -1,0 +1,12 @@
+buatlah sebuah program bahasa c yang menampilkan sebuah sistem penggrirman barang yang menerima input berupa kode kota tujuan dan berat paket lalu sisttem kemudian akan menghitung seluruh biaya pengiriman (termasuk promo yang )didapat termasuk berat beraat paket. untuk input yang digunakan adalah
+MDN
+5
+JKT
+3
+BLG
+4
+END
+
+dan untuk output nya berupa Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh,
+
+buat dalam program bahasa c yang dapat dijalankan pada applikasi vs cde dan menggunakan sistem operasi windows. dan struktur kode yaitu lengkap dan siap dijalankan dan hanya menggunakan satu fungsi utama saja dengan standar kualitas berfokus pada backend
